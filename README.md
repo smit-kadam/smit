@@ -16,7 +16,6 @@
   Dedicated professional aiming for career enhancement opportunities in Industrial Automation domain with an organization of high repute, preferably in Projects industry.
 </div>
 
-## Professional Summary
 <main>
     <section id="professional-summary">
       <h2>Professional Summary</h2>
