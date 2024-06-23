@@ -17,20 +17,29 @@
 </div>
 
 ## Professional Summary
-<div class="scrolling-text">
-- Schematic drawing preparation monitored control panel manufacturing and testing, operations to consistently meet rigorous customer requirements.
-- Expertise in developing quality assurance documentation, including protocols, qualification documents, design systems, test plans, and test reports.
-- Strong capability in PLC, Relay, PCC, and MCC panel design using Eplan and AutoCAD.
-- Control panel design and integration for BIW line.
-- Experience in creating Bills of Materials, designing panel layouts using Eplan and AutoCAD (2D), and developing electrical wiring designs.
-- Preparation of Single Line Diagram, Layout, Design Review Documents, Earthing, CT & PT Sizing Calculation, Cable sizing and calculation.
-- Proven leadership skills in supervising project activities, managing the entire project lifecycle, and implementing effective documentation and workflow techniques.
-- Design of electrical panels in low voltage.
-- Delivering detailed engineering design with precision and expertise.
-- Successfully managed cross-cultural projects for prototype development and electrical schematics, adhering to international standards (IEC/UL/NEMA) in locations like France and Italy.
-- Extensive experience in electrical control panel design and manufacturing, ensuring adherence to rigorous customer requirements and international safety standards (CE, MD, LVD, EMC).
-- Proficiency in applying machine safety principles (EN ISO 13849-1/-2, EN 61800-5-2) to create safe and reliable control systems.
-</div>
+<main>
+    <section id="professional-summary">
+      <h2>Professional Summary</h2>
+      <div class="scrolling-text">
+        <ul>
+          <li>Schematic drawing preparation monitored control panel manufacturing and testing, operations to consistently meet rigorous customer requirements.</li>
+          <li>Expertise in developing quality assurance documentation, including protocols, qualification documents, design systems, test plans, and test reports.</li>
+          <li>Strong capability in PLC, Relay, PCC, and MCC panel design using Eplan and AutoCAD.</li>
+          <li>Control panel design and integration for BIW line.</li>
+          <li>Experience in creating Bills of Materials, designing panel layouts using Eplan and AutoCAD (2D), and developing electrical wiring designs.</li>
+          <li>Preparation of Single Line Diagram, Layout, Design Review Documents, Earthing, CT & PT Sizing Calculation, Cable sizing and calculation.</li>
+          <li>Proven leadership skills in supervising project activities, managing the entire project lifecycle, and implementing effective documentation and workflow techniques.</li>
+          <li>Design of electrical panels in low voltage.</li>
+          <li>Delivering detailed engineering design with precision and expertise.</li>
+          <li>Successfully managed cross-cultural projects for prototype development and electrical schematics, adhering to international standards (IEC/UL/NEMA) in locations like France and Italy.</li>
+          <li>Extensive experience in electrical control panel design and manufacturing, ensuring adherence to rigorous customer requirements and international safety standards (CE, MD, LVD, EMC).</li>
+          <li>Proficiency in applying machine safety principles (EN ISO 13849-1/-2, EN 61800-5-2) to create safe and reliable control systems.</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
 
 ## Work Experience
 
