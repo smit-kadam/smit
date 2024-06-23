@@ -1,5 +1,7 @@
-title: Shaw Tatebi
+title: Smit Kadam
 logo: /assets/img/headshot_circte.png
 *description: text below image
 show_downloads: true
-theme: Time Machine
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
