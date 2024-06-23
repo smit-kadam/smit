@@ -1,8 +1,11 @@
 <!-- Profile README for GitHub with animations and scrolling effect -->
 
-# Kadam Smit Rajkumar
 
-<a href="https://ibb.co/f4Lw0Pp"><img src="https://i.ibb.co/syzY3Mw/github-banner-Capture.png" alt="github-banner-Capture" border="0"></a> <!-- Replace with your image URL -->
+
+<a href="https://ibb.co/f4Lw0Pp">
+  <img src="https://i.ibb.co/syzY3Mw/github-banner-Capture.png" alt="github-banner-Capture" style="width:100%;" border="0">
+</a>
+ <!-- Replace with your image URL -->
 
 ## Contact Information
 - 📧 Email: [smitkadamele@gmail.com](mailto:smitkadamele@gmail.com)
