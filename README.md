@@ -2,7 +2,7 @@
 
 # Kadam Smit Rajkumar
 
-![Profile Banner](https://ibb.co/dLNnDmc) <!-- Replace with your image URL -->
+![Profile Banner](<a href="https://imgbb.com/"><img src="https://i.ibb.co/GtZgRHJ/smit-passport.png" alt="smit-passport" border="0" /></a>) <!-- Replace with your image URL -->
 
 ## Contact Information
 - 📧 Email: [smitkadamele@gmail.com](mailto:smitkadamele@gmail.com)
