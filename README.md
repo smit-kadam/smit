@@ -7,167 +7,143 @@
 </a>
  <!-- Replace with your image URL -->
 
-## Contact Information
-- 📧 Email: [smitkadamele@gmail.com](mailto:smitkadamele@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/smit-kadam/)
-- 📞 Mobile: +91-8888302003
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kadam Smit Rajkumar</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <a href="https://ibb.co/f4Lw0Pp">
+      <img src="https://i.ibb.co/syzY3Mw/github-banner-Capture.png" alt="github-banner-Capture" style="width:100%;" border="0">
+    </a>
+    <h1>Kadam Smit Rajkumar</h1>
+    <p>Email: <a href="mailto:smitkadamele@gmail.com">smitkadamele@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/smit-kadam/">Smit Kadam</a></p>
+    <p>Mobile: +91-8888302003</p>
+  </header>
 
-## Career Objective
-<div class="scrolling-text">
-  Dedicated professional aiming for career enhancement opportunities in Industrial Automation domain with an organization of high repute, preferably in Projects industry.
-</div>
+  <main>
+    <section id="career-objective">
+      <h2>Career Objective</h2>
+      <p>Dedicated professional aiming for career enhancement opportunities in Industrial Automation domain with an organization of high repute, preferably in Projects industry.</p>
+    </section>
 
-## Professional Summary
-<div class="scrolling-text">
-- Schematic drawing preparation monitored control panel manufacturing and testing, operations to consistently meet rigorous customer requirements.
-- Expertise in developing quality assurance documentation, including protocols, qualification documents, design systems, test plans, and test reports.
-- Strong capability in PLC, Relay, PCC, and MCC panel design using Eplan and AutoCAD.
-- Control panel design and integration for BIW line.
-- Experience in creating Bills of Materials, designing panel layouts using Eplan and AutoCAD (2D), and developing electrical wiring designs.
-- Preparation of Single Line Diagram, Layout, Design Review Documents, Earthing, CT & PT Sizing Calculation, Cable sizing and calculation.
-- Proven leadership skills in supervising project activities, managing the entire project lifecycle, and implementing effective documentation and workflow techniques.
-- Design of electrical panels in low voltage.
-- Delivering detailed engineering design with precision and expertise.
-- Successfully managed cross-cultural projects for prototype development and electrical schematics, adhering to international standards (IEC/UL/NEMA) in locations like France and Italy.
-- Extensive experience in electrical control panel design and manufacturing, ensuring adherence to rigorous customer requirements and international safety standards (CE, MD, LVD, EMC).
-- Proficiency in applying machine safety principles (EN ISO 13849-1/-2, EN 61800-5-2) to create safe and reliable control systems.
-</div>
+    <section id="professional-summary">
+      <h2>Professional Summary</h2>
+      <ul>
+        <li>Schematic drawing preparation monitored control panel manufacturing and testing, operations to consistently meet rigorous customer requirements.</li>
+        <li>Expertise in developing quality assurance documentation, including protocols, qualification documents, design systems, test plans, and test reports.</li>
+        <li>Strong capability in PLC, Relay, PCC, and MCC panel design using Eplan and AutoCAD.</li>
+        <li>Control panel design and integration for BIW line.</li>
+        <li>Experience in creating Bills of Materials, designing panel layouts using Eplan and AutoCAD (2D), and developing electrical wiring designs.</li>
+        <li>Preparation of Single Line Diagram, Layout, Design Review Documents, Earthing, CT & PT Sizing Calculation, Cable sizing and calculation.</li>
+        <li>Proven leadership skills in supervising project activities, managing the entire project lifecycle, and implementing effective documentation and workflow techniques.</li>
+        <li>Design of electrical panels in low voltage.</li>
+        <li>Delivering detailed engineering design with precision and expertise.</li>
+        <li>Successfully managed cross-cultural projects for prototype development and electrical schematics, adhering to international standards (IEC/UL/NEMA) in locations like France and Italy.</li>
+        <li>Extensive experience in electrical control panel design and manufacturing, ensuring adherence to rigorous customer requirements and international safety standards (CE, MD, LVD, EMC).</li>
+        <li>Proficiency in applying machine safety principles (EN ISO 13849-1/-2, EN 61800-5-2) to create safe and reliable control systems.</li>
+      </ul>
+    </section>
 
-## Work Experience
+    <section id="work-experience">
+      <h2>Work Experience</h2>
+      <details>
+        <summary>Sidel India Pvt. Ltd. (October 2022– Present) - Sr. Electrical Design Engineer</summary>
+        <ul>
+          <li>Lead electrical design projects from concept to completion, overseeing planning, implementation, coordination, and progress monitoring.</li>
+          <li>Collaborate with sales engineers to develop project schemes that meet customer needs.</li>
+          <li>Ensure design quality by reviewing and approving team member work.</li>
+          <li>Create and maintain technical documentation (calculations, BOMs, schematics).</li>
+        </ul>
+      </details>
 
-<details>
-<summary><b>Sidel India Pvt. Ltd.</b> (October 2022– Present) - Sr. Electrical Design Engineer</summary>
-- Lead electrical design projects from concept to completion, overseeing planning, implementation, coordination, and progress monitoring.
-- Collaborate with sales engineers to develop project schemes that meet customer needs.
-- Ensure design quality by reviewing and approving team member work.
-- Create and maintain technical documentation (calculations, BOMs, schematics).
-</details>
+      <details>
+        <summary>Genpact India Pvt. Ltd. (March 2021 – October 2022) - Business Analyst (Electrical Design)</summary>
+        <ul>
+          <li>Managed the electrical design process, including estimations, planning, and project oversight.</li>
+          <li>Contributed to project concept development and collaborated with sales engineers on project proposals.</li>
+          <li>Supervised project execution and troubleshooting for assigned projects.</li>
+          <li>Prepared technical documentation (introductions and service procedures).</li>
+        </ul>
+      </details>
 
-<details>
-<summary><b>Genpact India Pvt. Ltd.</b> (March 2021 – October 2022) - Business Analyst (Electrical Design)</summary>
-- Managed the electrical design process, including estimations, planning, and project oversight.
-- Contributed to project concept development and collaborated with sales engineers on project proposals.
-- Supervised project execution and troubleshooting for assigned projects.
-- Prepared technical documentation (introductions and service procedures).
-</details>
+      <details>
+        <summary>Profesyst Consulting Services Pvt. Ltd. (August 2019 – March 2021) - Sr. Electrical Engineer</summary>
+        <ul>
+          <li>Led and performed new product electrical design tasks, including planning, implementation, coordination, and progress monitoring.</li>
+          <li>Developed project concepts and reviewed team member designs.</li>
+          <li>Partnered with sales engineers on project proposals.</li>
+          <li>Supervised project execution and troubleshooting.</li>
+          <li>Created technical documentation (introductions and service procedures).</li>
+        </ul>
+      </details>
 
-<details>
-<summary><b>Profesyst Consulting Services Pvt. Ltd.</b> (August 2019 – March 2021) - Sr. Electrical Engineer</summary>
-- Led and performed new product electrical design tasks, including planning, implementation, coordination, and progress monitoring.
-- Developed project concepts and reviewed team member designs.
-- Partnered with sales engineers on project proposals.
-- Supervised project execution and troubleshooting.
-- Created technical documentation (introductions and service procedures).
-</details>
+      <details>
+        <summary>Aichelin Unitherm Heat Treatment Systems India Pvt. Ltd. (February 2019 – August 2019) - Electrical Engineer – Design</summary>
+        <ul>
+          <li>Responsible for new product electrical design process, including planning, implementation, coordination, and progress monitoring.</li>
+          <li>Responsible for project concepts in electrical parts.</li>
+          <li>Checked and confirmed design programs of team members.</li>
+          <li>Collaborated on project schemes with sales engineers.</li>
+          <li>Supervised fixing and debugging of relevant projects.</li>
+          <li>Maintained relevant technical documents for responsible projects.</li>
+        </ul>
+      </details>
 
-<details>
-<summary><b>Aichelin Unitherm Heat Treatment Systems India Pvt. Ltd.</b> (February 2019 – August 2019) - Electrical Engineer – Design</summary>
-- Responsible for new product electrical design process, including planning, implementation, coordination, and progress monitoring.
-- Responsible for project concepts in electrical parts.
-- Checked and confirmed design programs of team members.
-- Collaborated on project schemes with sales engineers.
-- Supervised fixing and debugging of relevant projects.
-- Maintained relevant technical documents for responsible projects.
-</details>
+      <details>
+        <summary>Dhruva Automation & Controls Pvt. Ltd. (October 2017 – February 2019) - Project Engineer</summary>
+        <ul>
+          <li>Identified system requirements and decided on the type and components of panels.</li>
+          <li>Prepared design and BOM, took client approval, and inspected manufacturing.</li>
+          <li>Tested the system.</li>
+        </ul>
+      </details>
 
-<details>
-<summary><b>Dhruva Automation & Controls Pvt. Ltd.</b> (October 2017 – February 2019) - Project Engineer</summary>
-- Identified system requirements and decided on the type and components of panels.
-- Prepared design and BOM, took client approval, and inspected manufacturing.
-- Tested the system.
-</details>
+      <details>
+        <summary>M/S Uttam Electrical and Engineering Services, Nanded (July 2015 - December 2016) - Trainee Engineer</summary>
+        <ul>
+          <li>Monitored installation and operations to consistently meet rigorous customer requirements.</li>
+          <li>Designed panels as per requirements.</li>
+          <li>Maintained records of work status and billing.</li>
+          <li>Oversaw transformer installation and battery maintenance.</li>
+          <li>Inspected work as per design diagrams.</li>
+        </ul>
+      </details>
+    </section>
 
-<details>
-<summary><b>M/S Uttam Electrical and Engineering Services, Nanded</b> (July 2015 - December 2016) - Trainee Engineer</summary>
-- Monitored installation and operations to consistently meet rigorous customer requirements.
-- Designed panels as per requirements.
-- Maintained records of work status and billing.
-- Oversaw transformer installation and battery maintenance.
-- Inspected work as per design diagrams.
-</details>
+    <section id="technical-skills">
+      <h2>Technical Skills</h2>
+      <ul>
+        <li>Control Panel Design in Eplan and AutoCAD.</li>
+        <li>Automotive Wire Harness in CATIA.</li>
+        <li>PLC Automation System Logic Development and Programming.</li>
+      </ul>
+    </section>
 
-## Technical Skills
-<div class="scrolling-text">
-- Control Panel Design in Eplan and AutoCAD.
-- Automotive Wire Harness in CATIA.
-- PLC Automation System Logic Development and Programming.
-</div>
+    <section id="major-projects">
+      <h2>Major Projects Executed</h2>
+      <details>
+        <summary>Indo Schöttle Auto Parts Heat Treatment Plant</summary>
+        <p><strong>Project Site:</strong> INDO SCHÖTTLE PIRANGUT</p>
+        <p><strong>Client:</strong> Indo Schöttle Auto Parts Pvt. Ltd.</p>
+        <p><strong>Role:</strong> Electrical design process, including planning, implementation, coordination, and progress monitoring.</p>
+      </details>
 
-## Major Projects Executed
-<details>
-<summary><b>Indo Schöttle Auto Parts Heat Treatment Plant</b></summary>
-- **Project Site:** INDO SCHÖTTLE PIRANGUT
-- **Client:** Indo Schöttle Auto Parts Pvt. Ltd.
-- **Role:** Electrical design process, including planning, implementation, coordination, and progress monitoring.
-</details>
+      <details>
+        <summary>TATA Q5 Body Shop</summary>
+        <p><strong>Project Site:</strong> TATA MOTORS, PIMPRI</p>
+        <p><strong>Client:</strong> COMAU India Pvt. Ltd.</p>
+        <p><strong>Role:</strong> Designed layout of Panel using Electrical wiring Design using Eplan p8 2.4, Panel Testing.</p>
+      </details>
 
-<details>
-<summary><b>TATA Q5 Body Shop</b></summary>
-- **Project Site:** TATA MOTORS, PIMPRI
-- **Client:** COMAU India Pvt. Ltd.
-- **Role:** Designed layout of Panel using Electrical wiring Design using Eplan p8 2.4, Panel Testing.
-</details>
-
-<details>
-<summary><b>ALSTOM Rail Coach Assembly/Testing Project</b></summary>
-- **Project Site:** O.L.C.I. Chakan
-- **Client:** O.L.C.I. India Pvt. Ltd.
-- **Role:** Designed layout of Panel using Electrical wiring Design using Eplan p8 2.4, Panel Testing.
-</details>
-
-<details>
-<summary><b>Paint Shop Conveyor Systems</b></summary>
-- **Project Site:** Enkei Wheels India Ltd, Shikrapur
-- **Client:** Eisenmann India Pvt. Ltd.
-- **Role:** Bill of Material, Designed layout of Panel using Electrical wiring Design using Eplan p8 2.4, Panel Testing.
-</details>
-
-<details>
-<summary><b>PCC Panel</b></summary>
-- **Project Site:** Saisidha Sugar Equ. & Engg. Co. Pvt. Ltd.
-- **Client:** Saisidha Sugar Equ. & Engg. Co. Pvt. Ltd.
-- **Role:** Bill of Material, Designed layout of Panel using Electrical wiring Design using Eplan p8 2.4, Panel Testing.
-</details>
-
-<details>
-<summary><b>ICAD Main Controller Panel</b></summary>
-- **Project Site:** Skovlytoften 33, Denmark
-- **Client:** Flatworld Solutions
-- **Role:** Bill of Material, Designed layout of Panel using Electrical wiring Design using AutoCAD.
-</details>
-
-## Certifications
-<div class="scrolling-text">
-- Research paper published on ‘Lean manufacturing technique in industrial automation’.
-- In Plant Training: E.H.V. (O&M) Substation Jangamwadi, Nanded.
-- Certificate by Heat Spring in Residential Solar PV Project Management Gantt Chart.
-- Prize-winning performance certificate in line follower robot competition.
-- Authorized certification by PWD Department of Maharashtra state government as an electrical supervisor.
-- Certificate in Microprocessor Programming Workshop.
-- Certificate of Computer Learning CCC and AutoCAD.
-</div>
-
-## Academic Qualifications
-<div class="scrolling-text">
-- **MBA Master of Business Administration** (2017-2019) with 65% from P.K. Technical Campus, Chakan S.P.P.U. University.
-- **B.E. Electrical and Electronics Engineering** (2013-16) with 65% from MIT Aurangabad, B.A.M.U. University.
-- **Diploma in Electrical Engineering** (2010-12) with 66.17% from IIT Nanded, M.S.B.T.E.
-- **SSC** (2008-2009) with 75% from Rajarshri Shahu Vidyalaya, Nanded.
-</div>
-
-## Achievements and Extra-Curricular Activities
-- Seminar on E-Waste and Energy Efficient Transformer.
-
-## Personal Details
-- **Date of Birth:** 07th July 1993
-- **Father's Name:** Shri Rajkumar Kadam
-- **Marital Status:** Married
-- **Gender:** Male
-- **Languages Known:** English, Marathi, German, and Hindi
-
-<style>
-  .scrolling-text {
-    height: 150px;
-    overflow-y: scroll;
-  }
-</style>
+      <details>
+        <summary>ALSTOM Rail Coach Assembly/Testing Project</summary>
+        <p><strong>Project Site:</strong> O.L.C.I. Chakan</p>
+        <p><strong>Client:</strong> O.L.C.I. India Pvt. Ltd.</p>
+        <p><strong>Role
