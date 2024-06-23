@@ -164,9 +164,3 @@
 - **Gender:** Male
 - **Languages Known:** English, Marathi, German, and Hindi
 
-<style>
-  .scrolling-text {
-    height: 150px;
-    overflow-y: scroll;
-  }
-</style>
