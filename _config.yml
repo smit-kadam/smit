@@ -4,3 +4,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
